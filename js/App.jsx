@@ -30,7 +30,6 @@ const App = () => (
         </Switch>
       </div>
     </Provider>
-
   </BrowserRouter>
 );
 
